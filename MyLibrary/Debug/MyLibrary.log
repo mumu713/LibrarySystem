@@ -1,0 +1,13 @@
+﻿  bookAdmin.cpp
+C:\Users\Lh\Desktop\新建文件夹\大二下\算法设计\算法课设\MyLibrary\MyLibrary\bookAdmin.cpp(262,20): warning C4018: “<”: 有符号/无符号不匹配
+  borrowReturnAdmin.cpp
+C:\Users\Lh\Desktop\新建文件夹\大二下\算法设计\算法课设\MyLibrary\MyLibrary\borrowReturnAdmin.cpp(216,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lh\Desktop\新建文件夹\大二下\算法设计\算法课设\MyLibrary\MyLibrary\borrowReturnAdmin.cpp(234,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lh\Desktop\新建文件夹\大二下\算法设计\算法课设\MyLibrary\MyLibrary\borrowReturnAdmin.cpp(254,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lh\Desktop\新建文件夹\大二下\算法设计\算法课设\MyLibrary\MyLibrary\borrowReturnAdmin.cpp(296,21): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  menu.cpp
+  SqList.cpp
+  正在生成代码...
+C:\Users\Lh\Desktop\新建文件夹\大二下\算法设计\算法课设\MyLibrary\MyLibrary\SqList.cpp(132): warning C4715: “ListInsert_Sq”: 不是所有的控件路径都返回值
+  MyLibrary.vcxproj -> C:\Users\Lh\Desktop\新建文件夹\大二下\算法设计\算法课设\MyLibrary\Debug\MyLibrary.exe
